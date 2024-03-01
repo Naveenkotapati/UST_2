@@ -1,3 +1,6 @@
 hello it is new a1
+<<<<<<< HEAD
 t2
 hi
+=======
+>>>>>>> 4116e91 (newa1 file)
